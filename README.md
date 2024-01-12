@@ -10,6 +10,7 @@ Aggiunte:
 ![alt text](https://github.com/leotecno09/LeoCraft-Pack/blob/main/images/title.png?raw=true)
 ![alt text](https://github.com/leotecno09/LeoCraft-Pack/blob/main/images/loading.png?raw=true)
 
-Fix:
+Fix / Rimozioni:
 * Alcuni CIT di Optifine sono stati fixati
+* Rimosse foglie di betulla rosa
 
