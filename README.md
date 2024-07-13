@@ -14,3 +14,11 @@ Fix / Rimozioni:
 * Alcuni CIT di Optifine sono stati fixati
 * Rimosse foglie di betulla rosa
 
+## Aggiornamento 2.8
+Aggiunte:
+* Modificata la texture dei Command Block
+* Aggiunte foglie cespugliose
+
+![alt text](https://github.com/leotecno09/LeoCraft-Pack/blob/main/images/command_blocks.png?raw=true)
+![alt text](https://github.com/leotecno09/LeoCraft-Pack/blob/main/images/bushy_leaves.png?raw=true)
+
