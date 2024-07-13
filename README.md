@@ -1,5 +1,6 @@
 # LeoCraft-Pack
 Una texture di Minecraft. Semplice, no?
+(Tutti i file della texture sono in questa repo: https://github.com/leotecno09/LeoCraft-Pack-Source)
 
 ## Aggiornamento 2.7
 Aggiunte:
